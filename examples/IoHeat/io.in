@@ -6,7 +6,7 @@ saModules   eqtide   # Modules to apply to this body
 # Physical Parameters
 # Mass and radius of Io from https://ssd.jpl.nasa.gov/?sat_phys_par (18 Jul 2018)
 dMass		     -0.015  # Mass, negative -> Earth masses
-dRadius      -0.286  # Radius, negatice -> Earth radii
+dRadius      -0.286  # Radius, negative -> Earth radii
 dRadGyra	   0.27	   # Radius of gyration (moment of inertia constant)
 # Eqtide will override dRotPeriod with bForceEqSpin
 #dRotPeriod   -1.0   # Rotation period (-1 -> days)
